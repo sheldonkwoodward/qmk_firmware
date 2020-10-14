@@ -125,3 +125,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGB_MATRIX_LED_FLUSH_LIMIT 10
 
 #include "config_led.h"
+
+// user defined
+#define TAPPING_TERM 150
+#define RGB_MATRIX_STARTUP_MODE RGB_MATRIX_NONE
